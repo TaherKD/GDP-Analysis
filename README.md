@@ -1,5 +1,7 @@
 # GDP-Analysis
 
+Personal project to get a hands-on of Data Sourcing, Data Cleaning, Uni-variate Analysis, Segmented Uni-variate Analysis, Bi-variate Analysis, and Derived Metrics.
+
 The data is sourced from https://data.gov.in/ - an Open Government Data (OGD) platform of India. The data for GDP Analysis of Indian States is divided into two parts:
 
 1. Data I-A: This dataset contains the GSDP (Gross State Domestic Product) data for the states and union territories.
